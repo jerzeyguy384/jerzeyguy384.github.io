@@ -1,1 +1,1 @@
-This is going to be a wonderful website!
+This is a wonderful website!
